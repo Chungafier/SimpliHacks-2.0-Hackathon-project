@@ -1,0 +1,26 @@
+html, body{
+  background-color: #ECF39E;
+}
+
+.easteregg {
+        position: relative;
+    
+
+        filter: blur(100%);
+        left: 2px;
+        bottom: -200px;
+        
+        display: inline-block;
+        
+    }
+    .easteregg .top {
+        bottom: 2px;
+        display: none;
+        position: absolute;
+        top: 0;
+        left: 0;
+        z-index: 99;
+    }
+    .easteregg:hover .top {
+        display: inline;
+    }

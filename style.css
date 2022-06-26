@@ -1,0 +1,119 @@
+html, body {
+  background-color: #414833;
+  height: 100%;
+  width: 100%;
+}
+
+a:link{
+  color: #A68A64;
+}
+
+a:visited {
+  text-decoration: none;
+  color: #B6AD90;
+}
+
+.container{
+
+  font-style: "verdana";
+}
+
+.gallery{
+  max-width: 850px;
+  float: right;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+
+h1{
+  font-size: 40px;
+  
+}
+
+h2{
+  color: #A4AC86;
+  font-size: 30px;
+  
+}
+
+.title{ 
+  color: #A68A64;
+  text-align: center;
+}
+
+.navBar{
+  margin-left: 7%;
+  text-align: left;
+  width: 85%;
+}
+/* ^^^this just works, this just works, little lies stunning SHOWS it just worrerks! lol*/
+
+.navBar hr{
+   border: 0; border-top: 1px solid #582F0E;
+  margin-top:-5%;
+  position: absolute;
+  margin-left: 15%;
+  transform:rotate(90deg);
+  width: 40px;
+}
+/*^^^this too lol, i feel ther's a better way but it's too late for me to try, I need to work on more importent things*/
+
+.Paragraph{
+  font-size: 20px;
+  color: #A68A64;
+  margin-left: 8%;
+   margin-right: 8%;
+  
+}
+
+hr{
+  margin-left: 6%;
+   margin-right: 6%;
+  border: 0; border-top: 3px solid #582F0E;
+  
+}
+
+h3{
+  color: #C2C5AA;
+  font-size: 25px;
+  margin-left: 8%;
+   margin-right: 8%;
+    text-align: center;
+}
+
+figcaption{
+  width: 195px;
+  margin-left: 7%;
+  margin-top: 5px;
+  margin-bottom: 20px;
+  color: #C2C5AA;
+  font-size: 20px;
+  text-align: left;
+}
+
+.description{
+  width: 600px;
+  font-size: 25px;
+  color: #936639;
+}
+
+.footerThingy{
+  color: #B6AD90;
+  text-align: center;
+  margin-top:30%;
+}
+
+.footerThingy a:link{
+text-decoration: none;
+  color: #B6AD90;
+}
+
+
+.footerThingy a:visited {
+  text-decoration: none;
+  color: #B6AD90;
+}
+
+
+
